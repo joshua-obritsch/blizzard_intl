@@ -215,7 +215,7 @@ class ConfirmButton extends StatelessWidget {
 The text widgets provided by Blizzard Intl correspond exactly to their Flutter
 equivalents both in naming and parameters. This means they function exactly in
 the same way, the only difference being that any `String` parameter should be
-replaced by `Map<T, String>`. This includes `semanticLabel`.
+replaced by `Map<T, String>`. This includes `semanticsLabel`.
 
 There are cases when providing multiple translations would be unnecessary, such
 as when displaying a counter to the user. So Blizzard Intl does not make
