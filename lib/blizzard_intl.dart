@@ -1,3 +1,5 @@
+/// A library that facilitates the internationalization and localization of
+/// Flutter applications.
 library blizzard_intl;
 
 import 'package:flutter/gestures.dart';
